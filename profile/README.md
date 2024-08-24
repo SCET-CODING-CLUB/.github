@@ -22,7 +22,7 @@ Our mission is to:
 
 Joining Nexus Coding Club is easy! Whether you're a beginner or an experienced coder, there's a place for you here. To get involved:
 
-1. **Attend Our Meetings**: Join us for regular meetings and events. Check our [events calendar](#) for upcoming sessions.
+1. **Attend Our Meetings**: Join us for regular meetings and events. Check our events calendar for upcoming sessions.
 2. **Join Our Online Community**: Connect with us for updates and engage with other members.
 3. **Participate in Events**: Take part in our workshops, hackathons, and projects to gain hands-on experience and showcase your skills.
 
