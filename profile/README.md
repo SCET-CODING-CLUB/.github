@@ -1,8 +1,8 @@
-# Nexus Coding Club
+# 👨‍💻Nexus Coding Club
 
 Welcome to **Nexus Coding Club** at Shadan College of Engineering and Technology! We are a vibrant community of technology enthusiasts and aspiring developers committed to exploring and advancing the field of coding and software development.
 
-## About Us
+## 👐About Us
 
 Nexus Coding Club is a student-run organization dedicated to fostering a passion for technology and programming among students. We offer a range of activities, including:
 
@@ -11,14 +11,14 @@ Nexus Coding Club is a student-run organization dedicated to fostering a passion
 - **Projects**: Collaborative projects that allow members to apply their skills to real-world problems and develop practical software solutions.
 - **Guest Lectures**: Talks and seminars by industry experts and experienced professionals to provide insights into the latest trends and technologies.
 
-## Our Mission
+## 🚀Our Mission
 
 Our mission is to:
 - **Promote Learning**: Provide opportunities for students to learn and grow their coding skills.
 - **Encourage Innovation**: Foster creativity and problem-solving through collaborative projects and hackathons.
 - **Build Community**: Create a supportive environment where students can connect, share knowledge, and work together on technology-related endeavors.
 
-## Get Involved
+## 🤝Get Involved
 
 Joining Nexus Coding Club is easy! Whether you're a beginner or an experienced coder, there's a place for you here. To get involved:
 
@@ -29,14 +29,14 @@ Joining Nexus Coding Club is easy! Whether you're a beginner or an experienced c
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-## Contact Us
+## 🙋‍♂️Contact Us
 
 For more information or inquiries, please reach out to us at:
 
 - **Email**: [nexuscodingclub@gmail.com](mailto:nexuscodingclub@gmail.com)
 - **Social Media**: Follow us on Instagram for updates and announcements.
 
-## Stay Connected
+## 👋Stay Connected
 
 Stay tuned for the latest news and updates from Nexus Coding Club.
 
