@@ -40,7 +40,11 @@ For more information or inquiries, please reach out to us at:
 
 Stay tuned for the latest news and updates from Nexus Coding Club.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ---
 
 We look forward to seeing you at our next event and working together to explore the exciting world of coding and technology!
 
+[![](https://visitcount.itsvg.in/api?id=SCET-CODING-CLUB&icon=2&color=1)](https://visitcount.itsvg.in)
